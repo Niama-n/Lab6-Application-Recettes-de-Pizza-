@@ -42,4 +42,4 @@ Vous pouvez visualiser le test de l'application ici :
 4. Run the app on an emulator or a physical Android device.
 
 ## Auteure
-Developped by NAFTAOUI NIAMA
+Developed by NAFTAOUI NIAMA

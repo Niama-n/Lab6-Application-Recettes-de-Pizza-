@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">🍕 Recettes Pizza 🔥</string>
+
+    <!-- Splash -->
+    <string name="recettes_pizza">🍕 Recettes de Pizza 🍕</string>
+    <string name="pizza_recipes_app">Recettes de Pizza App 🍅</string>
+    <string name="splash_image_desc">Logo de l\'application</string>
+    <string name="our_delicious_pizzas">Nos Délicieuses Pizzas 😋</string>
+    <string name="partager">Partager</string>
+    <!-- Detail -->
+    <string name="retour">⬅️ Retour</string>
+    <string name="pizza_image_desc">Image de la pizza</string>
+    <string name="ingredients_label">🛒 Ingrédients :</string>
+    <string name="description_label">📝 Description :</string>
+    <string name="etapes_label">👨‍🍳 Étapes :</string>
+</resources>

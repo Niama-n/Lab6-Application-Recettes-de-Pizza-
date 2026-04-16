@@ -1,6 +1,17 @@
 # Recettes Pizza
 > **LAB 6 - Application "Recettes de Pizza" 🍕**
 ---
+
+## 🎬Vidéo de démonstration
+
+Vous pouvez visualiser le test de l'application ici :
+---
+
+
+https://github.com/user-attachments/assets/80f13d99-1b8e-4146-9539-c63a6fe02d31
+
+
+
 Ce TP a pour but de développer une application Android en Java qui affiche une liste de pizzas avec leur nom, prix, durée de préparation et image, puis d’accéder à un détail complet de chaque recette.
 
 L’objectif est de comprendre :
@@ -10,10 +21,6 @@ Le passage de données entre activités,
 L’utilisation d’un Splash Screen animé,
 Et la mise en œuvre d’un modèle de données orienté objet.
 
-## 🎬Vidéo de démonstration
-
-Vous pouvez visualiser le test de l'application ici :
----
 
 
 ## 🛠️ Technical Stack
